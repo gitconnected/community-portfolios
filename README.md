@@ -6,7 +6,7 @@ Build your portfolio using the [Portfolio API](https://gitconnected.com/portfoli
 This is also a great excercise on submitting a PR if you're new to open source or Git!
 
 ## Submitting Your Portfolio
-You will need to submit a PR to this repo with the content below. If you need directions on submitting use [this guide](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+You will need to submit a PR to this repo with the content below. If you need directions on submitting a PR use [this guide](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 1. Take a screenshot of your portfolio in widescreen format - preferably ~16x9 aspect ratio.
 2. Add your screen shot to the `images` folder and make the file name your username.
