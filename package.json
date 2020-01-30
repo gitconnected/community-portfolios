@@ -1,0 +1,10 @@
+{
+  "name": "community-portfolios",
+  "version": "1.0.0",
+  "repository": "git@github.com:gitconnected/community-portfolios.git",
+  "author": "gitconnected <hello@gitconnected.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "tests/index.js"
+  }
+}
