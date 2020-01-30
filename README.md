@@ -11,7 +11,7 @@ You will need to submit a PR to this repo with the content below. If you need di
 1. Take a screenshot of your portfolio in widescreen format - preferably ~16x9 aspect ratio.
 2. Add your screen shot to the `images` folder and make the file name your username.
 3. Add your details as an object to the `items` key of the `portfolios.json` file. If your portfolio is not on GitHub, you can leave that item out.
-```json
+```js
 {
   "version": "x.x.x",
   "items": [
