@@ -29,7 +29,10 @@ const validate = portfolio => {
     throw new Error('Website must be a valid URL string');
   }
 
-  if (!isString(portfolio.github) || !isValidUrl(portfolio.github) || !isGithub(portfolio.github)) {
+  if (
+    portfolio.github &&
+    (!isString(portfolio.github) || !isValidUrl(portfolio.github) || !isGithub(portfolio.github))
+  ) {
     throw new Error('GitHub must be a valid URL string');
   }
 
